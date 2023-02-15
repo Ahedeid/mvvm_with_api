@@ -1,6 +1,6 @@
 
 
-import '../model/datamodel.dart';
+import '../model/data_model.dart';
 
 abstract class PostRepositories{
   Future<List<PostModel>> getAllPosts();

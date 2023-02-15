@@ -1,6 +1,6 @@
 
 
-import 'package:mvvm_with_api/model/datamodel.dart';
+import 'package:mvvm_with_api/model/data_model.dart';
 
 class PostViewModel{
 

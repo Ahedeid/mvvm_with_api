@@ -1,7 +1,7 @@
 
 
 
-import 'package:mvvm_with_api/model/datamodel.dart';
+import 'package:mvvm_with_api/model/data_model.dart';
 import 'package:mvvm_with_api/repositories/post_repositories.dart';
 import 'package:mvvm_with_api/view_models/defscreen_view_model.dart';
 
