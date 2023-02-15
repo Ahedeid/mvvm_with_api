@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mvvm_with_api/view/defscrren.dart';
+import 'package:mvvm_with_api/view/def_screen.dart';
 
 void main()=> runApp(const MvvmWithAPI());
 
