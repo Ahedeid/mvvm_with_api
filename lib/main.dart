@@ -9,7 +9,8 @@ class MvvmWithAPI extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        home: DefScreen(),
+        home:
+        DefScreen(),
            // paddtest()
         //
         );
@@ -31,41 +32,46 @@ class MvvmWithAPI extends StatelessWidget {
 //         child: Column(
 //           children: [
 //             Container(
-//               height: 20,
-//               width: 150,
+//               height: 60,
+//               width: double.infinity,
 //               color: Colors.orange,
+//               margin: const EdgeInsetsDirectional.only(bottom: 10),
 //             ),
 //             Container(
-//               height: 20,
-//               width: 150,
+//               height: 60,
+//               width: double.infinity,
 //               color: Colors.orange,
+//               margin: const EdgeInsetsDirectional.only(bottom: 10),
 //             ),
 //             Container(
-//               height: 20,
-//               width: 150,
+//               height: 60,
+//               width: double.infinity,
 //               color: Colors.orange,
+//               margin: const EdgeInsetsDirectional.only(bottom: 10),
 //             ),
 //             const SizedBox(
 //               height: 20,
 //             ),
-//             Transform.translate(
-//                 offset: const Offset(-20.0, 0.0),
-//                 child: Container(
-//                   width: 150,
-//                   height: 150,
-//                   color: Colors.blue,
-//                 )),
-//             const SizedBox(
+//              Transform.translate(
+//                  offset: const Offset(-20.0, 0.0),
+//                  child: Container(
+//                    width: double.infinity,
+//                    height: 60,
+//                    color: Colors.blue,
+//                  )),
+//          const SizedBox(height: 20),
+//         const SizedBox(
 //               height: 20,
 //             ),
 //             Container(
-//               height: 20,
-//               width: 150,
+//               height: 60,
+//               width: double.infinity,
 //               color: Colors.orange,
+//               margin: const EdgeInsetsDirectional.only(bottom: 10),
 //             ),
 //             Container(
-//               height: 20,
-//               width: 150,
+//               height: 60,
+//               width: double.infinity,
 //               color: Colors.orange,
 //             ),
 //           ],
